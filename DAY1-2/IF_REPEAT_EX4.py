@@ -17,4 +17,4 @@ print('j : 짝수의 합', j)
 b=''
 while(b!='q'):
     b = input('문자 하나를 입력하세요 :')
-    print(b)
+    print(b) 
