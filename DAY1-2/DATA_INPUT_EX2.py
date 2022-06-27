@@ -3,5 +3,7 @@
 # 입력예 ) 891911 131511 출력 : 8919131511
 
 s = input('주민등록번호를 입력해주세요. - 사용 : ').split('-')
+#print(s) #['1234', '0987']
 print(''.join(s))
 
+#https://blockdmask.tistory.com/469
