@@ -12,6 +12,6 @@
 
 [소스 코드 : IF_REPEAT_EX4.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/IF_REPEAT_EX4.py)
 
- [소스 코드 : IF_REPEAT_EX5.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/IF_REPEAT_EX5.py)
+[소스 코드 : IF_REPEAT_EX5.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/IF_REPEAT_EX5.py)
 
-
+ [소스 코드 : DATA_TYPE_EX6.PY 실행 완료] 
