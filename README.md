@@ -9,3 +9,9 @@
 [소스 코드 : 도전과제 HELLOWORLD_EX1.py 실행완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/HELLOWORLD_EX1.py)
 
 [소스 코드 : 도전과제 DATA_INPUT_EX2.py 실행완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/DATA_INPUT_EX2.py)
+
+[소스 코드 : IF_REPEAT_EX4.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/IF_REPEAT_EX4.py)
+
+ [소스 코드 : IF_REPEAT_EX5.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY1-2/IF_REPEAT_EX5.py)
+
+
