@@ -13,8 +13,6 @@ for i in range(a+1):
         print('j', j)
 print('j : 짝수의 합', j)
 
-#문제 1 다른 방법
-a = int(input('정수 1개를 입력 하세요(1~100) :'))
 
 #문제 2
 b=''

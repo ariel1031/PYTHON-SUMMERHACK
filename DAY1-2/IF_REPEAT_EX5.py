@@ -4,3 +4,6 @@
 for i in range(2, 10):
     for j in range(1, 10):
         print(i,'x',j,'=',i*j)
+        
+# 사용자가 입력한 단까지만 구구단 출력하기
+n = int(input('구구단을 몇 단까지 출력할까요? :'))
