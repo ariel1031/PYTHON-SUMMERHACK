@@ -22,3 +22,6 @@
 [소스 코드 : CURRENCY.py 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY3/CURRENCY.py)
 pip install psutil 명령어로 psutil을 설치하여 해당 프로세스 메모리 공간 출력한다.
 time을 import 하여 걸리는 시간을 측정한다.
+
+[소스 코드 : 1_PLEASE.py 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY3/1_PLEASE.py)
+사용자에게 입력 받는 시간까지 시간을 측정하므로 n과 k를 미리 초기화해두었다. n의 크기를 작은 수, 아주 큰 수로 지정하고 비교한 결과 시간 복잡도, 공간 복잡도는 큰 차이가 없다.
