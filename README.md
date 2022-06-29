@@ -19,4 +19,6 @@
 [소스 코드 : TIME_TEST.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY3/TIME_TEST.py)
 시간 계산을 해본 결과, 구름 IDE보다 리플릿이 더 빠르다. 리플릿: (https://replit.com/languages/python3)
 
-
+[소스 코드 : CURRENCY.py 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY3/CURRENCY.py)
+pip install psutil 명령어로 psutil을 설치하여 해당 프로세스 메모리 공간 출력한다.
+time을 import 하여 걸리는 시간을 측정한다.
