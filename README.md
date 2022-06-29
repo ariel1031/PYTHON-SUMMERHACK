@@ -17,6 +17,6 @@
 [소스 코드 : DATA_TYPE_EX6.PY 실행 완료] 
 
 [소스 코드 : TIME_TEST.PY 실행 완료] (https://github.com/ariel1031/PYTHON-SUMMERHACK/blob/main/DAY3/TIME_TEST.py)
-시간 계산을 해본 결과, 구름 IDE보다 리플릿이 더 빠르다. 리플릿 : (https://replit.com/languages/python3)
+시간 계산을 해본 결과, 구름 IDE보다 리플릿이 더 빠르다. 리플릿: (https://replit.com/languages/python3)
 
 
