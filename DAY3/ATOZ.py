@@ -3,9 +3,6 @@ pos = 'abcdefghijklmnopqrstuvwxyz'
 
 for i in pos:
     if i in s:
-        print(s.index(i), end=' ')
+        print(i, s.index(i), end=' ')
     else:
-        print(-1, end = ' ')
-
-
-
+        print(i, -1, end = ' ')
