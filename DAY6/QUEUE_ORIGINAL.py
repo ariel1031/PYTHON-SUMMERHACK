@@ -16,3 +16,4 @@ queue.popleft()
 print(queue)
 queue.reverse() #나중에 들어온 순서대로 역정렬
 print(queue)
+print(type(queue))
